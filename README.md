@@ -1,4 +1,4 @@
-# Data Structures Repository
+# SM-DataStructures Repository
 
 Welcome to the SM-DataStructures repository! This repository is dedicated to learning and practicing various data structures commonly used in programming.
 
