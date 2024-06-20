@@ -6,6 +6,7 @@ Welcome to the SM-DataStructures repository! This repository is dedicated to lea
 
 - [Overview](#overview)
 - [Data Structures](#data-structures)
+- [Folder Structure](#folder-structures)
 - [Contributing](#contributing)
 
 ## Overview
@@ -30,6 +31,17 @@ Each data structure folder contains:
 - Implementation examples in different programming languages (e.g., Python, Java).
 - Code examples for common operations (insertion, deletion, traversal).
 - Notes on time and space complexity considerations.
+
+## Folder Structure
+├── arrays
+├── linked-lists
+├── stacks
+├── queues
+├── trees
+├── graphs
+├── hash-tables
+├── heaps
+
 
 ## Contributing
 
